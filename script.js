@@ -21,6 +21,18 @@ const sampleData = [
     ]
   },
   {
+    roll: 'SLTC-250164',
+    year: '2025',
+    course: 'BDTP',
+    name: 'LAKSHAY SHARMA',
+    father: 'Mr. BHUMESH SHARMA',
+    mother: 'Mrs. GEETA SHARMA',
+    subjects: [
+      {name:'BASIC', theory:75, practical:45, theoryMax:100, practicalMax:50},
+      {name:'DTP', theory:70, practical:46, theoryMax:100, practicalMax:50}
+    ]
+  },
+  {
     roll: 'SLCTC-102',
     year: '2025',
     course: 'DCA',
