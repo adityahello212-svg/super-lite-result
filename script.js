@@ -70,10 +70,11 @@ function calcTotal(subjects){
 }
 
 function gradeFromPct(p){
-  if(p>=85) return 'A+';
-  if(p>=75) return 'A';
+  if(p>=90) return 'A+';
+  if(p>=80) return 'A';
+  if(p>=70) return 'B+';
   if(p>=60) return 'B';
-  if(p>=45) return 'C';
+  if(p>=50) return 'C';
   return 'F';
 }
 function statusFromPct(p){ return p >= 45 ? 'Pass' : 'Fail'; }
