@@ -40,7 +40,7 @@ const sampleData = [
     father: 'Mr. DHARAM RAJ',
     mother: 'Mrs. SEEMA',
     subjects: [
-      {name:'BASIC', theory:72, practical:45, theoryMax:100, practicalMax:50}
+      {name:'BASIC', theory:56, practical:45, theoryMax:100, practicalMax:50}
       
     ]
   },
