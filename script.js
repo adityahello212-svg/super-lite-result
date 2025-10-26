@@ -18,8 +18,7 @@ const sampleData = [
     subjects: [
       {name:'BASIC', theory:63, practical:45, theoryMax:100, practicalMax:50},
       {name:'DTP', theory:74, practical:40, theoryMax:100, practicalMax:50}
-       {name:'TALLY ', theory:61, practical:40, theoryMax:100, practicalMax:50}
-       {name:'WEB DESIGNING', theory:64, practical:45, theoryMax:100, practicalMax:50}
+ 
     ]
   },
   {
