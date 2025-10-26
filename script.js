@@ -9,15 +9,17 @@ new QRCode(document.getElementById("qrcode"), {
 
 const sampleData = [
   {
-    roll: 'SLTC-101',
-    year: '2025',
+    roll: 'SLTC-250101',
+    year: '2024',
     course: 'ADCA',
-    name: 'Arjun',
-    father: 'Sh. Madanpal',
-    mother: 'Smt. Lata',
+    name: 'KALASH SAINI',
+    father: 'Mr. KRISHAN GOPAL',
+    mother: 'Mrs. KOSHAL',
     subjects: [
-      {name:'Computer Fundamentals', theory:78, practical:12, theoryMax:80, practicalMax:20},
-      {name:'MS Office', theory:90, practical:45, theoryMax:100, practicalMax:50}
+      {name:'BASIC', theory:63, practical:45, theoryMax:100, practicalMax:50},
+      {name:'DTP', theory:74, practical:40, theoryMax:100, practicalMax:50}
+       {name:'TALLY ', theory:61, practical:40, theoryMax:100, practicalMax:50}
+       {name:'WEB DESIGNING', theory:64, practical:45, theoryMax:100, practicalMax:50}
     ]
   },
   {
