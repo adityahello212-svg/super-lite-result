@@ -33,15 +33,15 @@ const sampleData = [
     ]
   },
   {
-    roll: 'SLCTC-102',
+    roll: 'SLTC-250166',
     year: '2025',
-    course: 'DCA',
-    name: 'Sita Verma',
-    father: 'Sh. Rajesh Verma',
-    mother: 'Smt. Meena Verma',
+    course: 'BASIC',
+    name: 'NANDINI',
+    father: 'Mr. DHARAM RAJ',
+    mother: 'Mrs. SEEMA',
     subjects: [
-      {name:'Computer Fundamentals', theory:66, practical:10, theoryMax:80, practicalMax:20},
-      {name:'MS Office', theory:72, practical:8, theoryMax:80, practicalMax:20}
+      {name:'BASIC', theory:72, practical:45, theoryMax:100, practicalMax:50}
+      
     ]
   },
   {
