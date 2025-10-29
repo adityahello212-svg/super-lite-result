@@ -18,10 +18,7 @@ const sampleData = [
     subjects: [
       {name:'BASIC', theory:63, practical:40, theoryMax:100, practicalMax:50},
       {name:'DTP', theory:74, practical:45, theoryMax:100, practicalMax:50}
-       {name:'TALLY', theory:61, practical:40, theoryMax:100, practicalMax:50}
-       {name:'WEB DESIGN', theory:59, practical:35, theoryMax:100, practicalMax:50}
-      
-    ]
+      ]
   },
   {
     roll: 'SLTC-250164',
