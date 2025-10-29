@@ -29,7 +29,9 @@ const sampleData = [
     mother: 'Mrs. GEETA SHARMA',
     subjects: [
       {name:'BASIC', theory:75, practical:45, theoryMax:100, practicalMax:50},
-      {name:'DTP', theory:70, practical:40, theoryMax:100, practicalMax:50}
+      {name:'DTP', theory:70, practical:40, theoryMax:100, practicalMax:50},
+      {name:'TALLY', theory:61, practical:40, theoryMax:100, practicalMax:50},
+       {name:'WEB DESIGN', theory:59, practical:35, theoryMax:100, practicalMax:50}
     ]
   },
   {
