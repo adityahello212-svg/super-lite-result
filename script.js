@@ -9,7 +9,7 @@ new QRCode(document.getElementById("qrcode"), {
 
 const sampleData = [
   {
-    roll: 'SLTC-250101',
+    roll: 'SLTC-240101',
     year: '2024',
     course: 'ADCA',
     name: 'KALASH SAINI',
@@ -23,7 +23,7 @@ const sampleData = [
       ]
   },
   {
-    roll: 'SLTC-250102',
+    roll: 'SLTC-240102',
     year: '2024',
     course: 'ADCA',
     name: 'HARSH SAINI',
@@ -37,7 +37,7 @@ const sampleData = [
       ]
   },
     {
-    roll: 'SLTC-250130',
+    roll: 'SLTC-240130',
     year: '2024',
     course: 'ADCA',
     name: 'ASHWIN CHAUDHARY	',
