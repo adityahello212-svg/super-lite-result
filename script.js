@@ -70,20 +70,19 @@ const sampleData = [
     father: 'Mr. DHARAM RAJ',
     mother: 'Mrs. SEEMA',
     subjects: [
-      {name:'BASIC', theory:56, practical:45, theoryMax:100, practicalMax:50}
+      {name:'BASIC', theory:60, practical:45, theoryMax:100, practicalMax:50}
       
     ]
   },
   {
-    roll: 'SLCTC-201',
-    year: '2024',
-    course: 'TALLY',
-    name: 'Amit Singh',
-    father: 'Sh. Vinod Singh',
-    mother: 'Smt. Lata Singh',
+    roll: 'SLTC-250150',
+    year: '2025',
+    course: 'BASIC',
+    name: 'RISHABH',
+    father: 'MR. SUNDER',
+    mother: 'Mrs. ',
     subjects: [
-      {name:'Accounting Basics', theory:75, practical:20, theoryMax:100, practicalMax:25},
-      {name:'GST Project', theory:80, practical:0, theoryMax:100, practicalMax:0}
+      {name:'BASIC', theory:60, practical:35, theoryMax:100, practicalMax:50}
     ]
   }
 ];
