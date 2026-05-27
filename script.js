@@ -80,7 +80,7 @@ const sampleData = [
     course: 'BASIC',
     name: 'RISHABH',
     father: 'MR. SUNDER',
-    mother: 'Mrs. ',
+    mother: 'Mrs.GUDDI ',
     subjects: [
       {name:'BASIC', theory:60, practical:35, theoryMax:100, practicalMax:50}
     ]
