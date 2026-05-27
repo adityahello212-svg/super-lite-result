@@ -85,6 +85,19 @@ const sampleData = [
       {name:'BASIC', theory:60, practical:35, theoryMax:100, practicalMax:50}
     ]
   }
+  {
+    roll: 'SLTC-250147',
+    year: '2025',
+    course: 'ADCA',
+    name: 'RAJAT',
+    father: 'Mr. SUNIL KUMAR',
+    mother: 'Mrs. ',
+    subjects: [
+       {name:'BASIC', theory:47, practical:40, theoryMax:100, practicalMax:50}
+       {name:'DTP', theory:40, practical:35, theoryMax:100, practicalMax:50}
+       {name:'TALLY', theory:46, practical:40, theoryMax:100, practicalMax:50},
+       {name:'WEB DESIGN', theory:38, practical:30, theoryMax:100, practicalMax:50} 
+    ]
 ];
 
 function calcTotal(subjects){
