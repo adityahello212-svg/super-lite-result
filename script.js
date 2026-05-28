@@ -84,7 +84,7 @@ const sampleData = [
     subjects: [
       {name:'BASIC', theory:60, practical:35, theoryMax:100, practicalMax:50}
     ]
-  }
+  },
   {
     roll: 'SLTC-250147',
     year: '2025',
@@ -98,7 +98,7 @@ const sampleData = [
        {name:'TALLY', theory:46, practical:40, theoryMax:100, practicalMax:50},
        {name:'WEB DESIGN', theory:38, practical:30, theoryMax:100, practicalMax:50} 
       ]
-    }
+    },
     {
     roll: 'SLTC-240129',
     year: '2024',
@@ -112,7 +112,7 @@ const sampleData = [
        {name:'TALLY', theory:57, practical:45, theoryMax:100, practicalMax:50},
        {name:'WEB DESIGN', theory:43, practical:35, theoryMax:100, practicalMax:50} 
       ]
-    }
+    },
     {
 
 function calcTotal(subjects){
