@@ -98,7 +98,7 @@ const sampleData = [
        {name:'TALLY', theory:46, practical:40, theoryMax:100, practicalMax:50},
        {name:'WEB DESIGN', theory:38, practical:30, theoryMax:100, practicalMax:50} 
     ]
-];
+    ];
 
 function calcTotal(subjects){
   const theoryTotal = subjects.reduce((s,n)=>s + (Number(n.theory)||0),0);
