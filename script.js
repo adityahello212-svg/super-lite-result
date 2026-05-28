@@ -97,10 +97,23 @@ const sampleData = [
        {name:'DTP', theory:40, practical:35, theoryMax:100, practicalMax:50}
        {name:'TALLY', theory:46, practical:40, theoryMax:100, practicalMax:50},
        {name:'WEB DESIGN', theory:38, practical:30, theoryMax:100, practicalMax:50} 
-    ]
+      ]
     }
     {
-    ];
+    roll: 'SLTC-240129',
+    year: '2024',
+    course: 'ADCA',
+    name: 'YASH',
+    father: 'Mr. SOHANVEER',
+    mother: 'Mrs. ',
+    subjects: [
+       {name:'BASIC', theory:44, practical:35, theoryMax:100, practicalMax:50}
+       {name:'DTP', theory:53, practical:40, theoryMax:100, practicalMax:50}
+       {name:'TALLY', theory:57, practical:45, theoryMax:100, practicalMax:50},
+       {name:'WEB DESIGN', theory:43, practical:35, theoryMax:100, practicalMax:50} 
+      ]
+    }
+    {
 
 function calcTotal(subjects){
   const theoryTotal = subjects.reduce((s,n)=>s + (Number(n.theory)||0),0);
